@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: chat-app
+
+server:
+  port: 8088
+
